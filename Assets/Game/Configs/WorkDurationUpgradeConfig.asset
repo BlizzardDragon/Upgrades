@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31454ec9cee54fe4f9148c8295793752, type: 3}
+  m_Name: WorkDurationUpgradeConfig
+  m_EditorClassIdentifier: 
+  Id: Time
+  MaxLevel: 10
+  PriceTable:
+    _basePrice: 100
+    _levels: 00000000c80000002c01000090010000f401000058020000bc0200002003000084030000e8030000
+  Table:
+    _startDuration: 4
+    _endDuration: 0.5
+    _stepDuration: 0.39
+    _levels:
+    - 4
+    - 3.61
+    - 3.22
+    - 2.83
+    - 2.44
+    - 2.05
+    - 1.66
+    - 1.27
+    - 0.88
+    - 0.5
